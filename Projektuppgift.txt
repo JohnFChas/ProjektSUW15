@@ -62,6 +62,7 @@ När det gäller design är det först och främst struktur och användarvänlig
 	┌───────────┐
 	│ Inlämning │
 	└───────────┘
+Det är individuell inlämning för detta projekt.
 Deadline för inlämning: 4 november 2016, kl 23:59
 
 - Skapa ett GIT repository, till exempel på github.com.
