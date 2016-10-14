@@ -2,7 +2,7 @@
 Du ska använda DummyApi-webbtjänsten för att bygga en chat-klient.
 Denna applikation ska byggas med hjälp av AngularJS, Bootstrap och jQuery UI.
 
-Meddelanden kommer finnas tillgängliga här: http://dummyapi.kodalagom.se/api/messages
+Meddelanden kommer finnas tillgängliga här: http://dummyapi.kodalagom.se/api/messages<br>
 Kanaler kommer finnas här: http://dummyapi.kodalagom.se/api/channels
 
 DummyApi docs: https://github.com/JohnFChas/DummyApi/wiki
