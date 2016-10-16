@@ -42,6 +42,7 @@ När det gäller design är det först och främst struktur och användarvänlig
 	- Implementera en bättre lösning än polling för att uppdatera chatten, servern stödjer SignalR (5 VG-poäng)
 		1. Servern kallar funktionen recieveMessage varje gång ett nytt meddelande postas,
 		   undersök hur du kan konfigurera din klient för att ta emot meddelandet
+		2. Serverns SignalR hub heter chatHub.
 - "Admin"-view
 	- Använd jQueryUI draggable och droppable för att: (1-2 VG-poäng)
 		1. Flytta kanaler till favoriter
