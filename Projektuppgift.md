@@ -12,7 +12,6 @@ Följande är minimum för godkänt betyg.
 
 - Använd AngularJS med routing
 - Använd bootstraps grid för layout och responsivitet
-- Implementera minst två valfria jQueryUI-interactions/widgets/effekter
 - Skapa en service som hanterar alla HTTP-requests
 - Navigation
 	- Använd till exempel bootstrap navbar eller tabs
@@ -51,7 +50,7 @@ När det gäller design är det först och främst struktur och användarvänlig
 	1. Nya meddelanden läggs till i chatten
 	2. När man tar bort kanaler med draggable/droppable
 - Skapa valfria directives, components, filters och/eller services (0-5 VG-poäng)
-- Skapa valfri widget med widget factory (och använd den på något meningsfullt sätt) (0-5 VG-poäng)
+- Skapa valfri widget med widget factory eller AngularJS component/directive (och använd den på något meningsfullt sätt) (0-5 VG-poäng)
 - Labbar/inlämningar (0-2 VG-poäng)
 
 ## Inlämning
